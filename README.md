@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhalidEDU
 - 👀 I’m interested in every scientific object!
-- 🌱 I’m currently learning calculus and javaScript
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning calculus, physics, java, and javaScript
+- 💞 I’m looking to collaborate on anything
 - 📫 How to reach me +966547537104, khaliddagestani@gmail.com
 
 <!---
